@@ -20,8 +20,8 @@
 # Replace placeholders with your own values. For sting token, use the sting session generator script.
 API_ID = "2353687"
 API_HASH = "375fb45eb1ba90f2b1cbf08a5cc06e02"
-STRING_SESSION = "YourSessionStringHere"
-BOT_TOKEN = "1AZWarzYBu1z_1cYmyBBCY0n4gVTdVLEpTY_1gnGOwh6Vk8T40iCYaQz6Bfrq6b9oCGYt2ZWGiONuhwyWRkxNE1AcT7SAlol7U-yR7dpXEMIJB-cFz-cGyijYP4a3Eg-PXH_PMQpDa4MRLdHiv2XPsjz6_kaGybJmhio92y9b731UYB6Hh1Yc5NNhyLbXgymtA-lh5PK1QJo9SQgS3xgiSMdq1Th1RMltPYJn_XtmuinxdP13RjVQRkdK4yh-n1TMEImYkq5njB3EZOV6tvwQPmU6reg7yfASg3EZlQpFV_QFyULhiBm7CQIDD9Nma-lZ8aoF94qbKGWIaDoCnPN31sXtaH8d2Ks="
+STRING_SESSION = "1AZWarzYBu1z_1cYmyBBCY0n4gVTdVLEpTY_1gnGOwh6Vk8T40iCYaQz6Bfrq6b9oCGYt2ZWGiONuhwyWRkxNE1AcT7SAlol7U-yR7dpXEMIJB-cFz-cGyijYP4a3Eg-PXH_PMQpDa4MRLdHiv2XPsjz6_kaGybJmhio92y9b731UYB6Hh1Yc5NNhyLbXgymtA-lh5PK1QJo9SQgS3xgiSMdq1Th1RMltPYJn_XtmuinxdP13RjVQRkdK4yh-n1TMEImYkq5njB3EZOV6tvwQPmU6reg7yfASg3EZlQpFV_QFyULhiBm7CQIDD9Nma-lZ8aoF94qbKGWIaDoCnPN31sXtaH8d2Ks="
+BOT_TOKEN = "1553109186:AAGqO6WtD4qJOIp2T2jvrdO8F_OQa8cuX-c"
 
 # The MongoDB URL
 # Use the v3.4.x+ URL format. For 3.6.x+, make sure 'dnspython' is installed.
